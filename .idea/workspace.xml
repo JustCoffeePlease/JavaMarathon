@@ -22,10 +22,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd7a5dca-445c-4dcd-be2f-0148e565ff8c" name="Default Changelist" comment="">
+    <list default="true" id="cd7a5dca-445c-4dcd-be2f-0148e565ff8c" name="Default Changelist" comment="Day1 is checked">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day1/Day1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day1/Day1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day2/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day2/Task1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +58,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.Day1Test.Task4">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Task2" />
-      <module name="JavaMarathon2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Day2Task3Test">
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Task3" />
+      <option name="MAIN_CLASS_NAME" value="day2.Task3" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,61 +72,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day1Test.Task2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.Task4" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day1.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day1" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day1.Day1Test" />
-      <option name="METHOD_NAME" value="Task2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day2Task3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaMarathon2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.day2" />
+      <option name="MAIN_CLASS_NAME" value="Tests.day2.Day2Task3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day2Task3Test.MinusTen_fifty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaMarathon2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.day2" />
+      <option name="MAIN_CLASS_NAME" value="Tests.day2.Day2Task3Test" />
+      <option name="METHOD_NAME" value="MinusTen_fifty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day1Test.Task3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day2Task4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day1.*" />
+          <option name="PATTERN" value="Tests.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day1" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day1.Day1Test" />
-      <option name="METHOD_NAME" value="Task3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day1Test.Task4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaMarathon2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.day1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tests.day1" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day1.Day1Test" />
-      <option name="METHOD_NAME" value="Task4" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Tests.day2" />
+      <option name="MAIN_CLASS_NAME" value="Tests.day2.Day2Task4Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day1Test.Task4" />
-        <item itemvalue="JUnit.Day1Test.Task3" />
+        <item itemvalue="JUnit.Day2Task3Test" />
+        <item itemvalue="JUnit.Day2Task3Test.MinusTen_fifty" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="JUnit.Day1Test.Task2" />
-        <item itemvalue="Application.Task2" />
+        <item itemvalue="JUnit.Day2Task4Test" />
+        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +153,9 @@
       <option name="presentableId" value="Default" />
       <updated>1602664132836</updated>
       <workItem from="1602664133893" duration="262000" />
-      <workItem from="1670043139974" duration="3566000" />
+      <workItem from="1670043139974" duration="5686000" />
+      <workItem from="1670087598447" duration="1148000" />
+      <workItem from="1670159228835" duration="2813000" />
     </task>
     <task id="LOCAL-00001" summary="Complete day0 and day1 tasks.">
       <created>1670046311503</created>
@@ -157,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670046311503</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day1 is checked">
+      <created>1670047301170</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670047301170</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,10 +187,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Complete day0 and day1 tasks." />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete day0 and day1 tasks." />
+    <MESSAGE value="Day1 is checked" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day1 is checked" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="275" key="#Notifications" timestamp="1670046399409">
@@ -187,46 +203,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="576" y="202" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1670046469079" />
-    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1670047207059">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1670088694140">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1670047207059" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1670088694140" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1670043155625">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1670043155625" />
-    <state width="1493" height="281" key="GridCell.Tab.0.bottom" timestamp="1670047189920">
+    <state width="1493" height="102" key="GridCell.Tab.0.bottom" timestamp="1670161676333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670047189920" />
-    <state width="1493" height="281" key="GridCell.Tab.0.center" timestamp="1670047189920">
+    <state width="1493" height="102" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670161676333" />
+    <state width="1493" height="102" key="GridCell.Tab.0.center" timestamp="1670161676333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="281" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1670047189920" />
-    <state width="1493" height="281" key="GridCell.Tab.0.left" timestamp="1670047189920">
+    <state width="1493" height="102" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1670161676333" />
+    <state width="1493" height="102" key="GridCell.Tab.0.left" timestamp="1670161676332">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="281" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1670047189920" />
-    <state width="1493" height="281" key="GridCell.Tab.0.right" timestamp="1670047189920">
+    <state width="1493" height="102" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1670161676332" />
+    <state width="1493" height="102" key="GridCell.Tab.0.right" timestamp="1670161676333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="281" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1670047189920" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1670047002094">
+    <state width="1493" height="102" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1670161676333" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1670078337883">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670047002094" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1670047002093">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670078337883" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1670078337882">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1670047002093" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1670047002093">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1670078337882" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1670078337882">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1670047002093" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1670047002094">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1670078337882" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1670078337882">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1670047002094" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1670078337882" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1670044413861">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -235,13 +251,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1670046367110" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1670046626630">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1670047316215">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1670046626630" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1670047316215" />
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1670046408262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1670046408262" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1670161089289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1670161089289" />
   </component>
 </project>
