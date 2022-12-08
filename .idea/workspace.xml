@@ -24,15 +24,15 @@
   <component name="ChangeListManager">
     <list default="true" id="cd7a5dca-445c-4dcd-be2f-0148e565ff8c" name="Default Changelist" comment="Day1 is checked">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day2/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day2/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day2/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day2/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day2/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day2/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day3/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day3/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day4/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day4/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day4/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day4/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day4/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day4/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day4/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day3/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day3/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day3/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day3/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day4/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day4/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day4/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day4/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day4/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day4/Task3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +58,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.Day3Task3Test">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.Task2" />
+  <component name="RunManager" selected="Application.Task4">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Task1" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.Task3" />
+    <configuration name="Task2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Task2" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,33 +85,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day3Task2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Task3" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day3" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day3.Day3Task2Test" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day3Task2Test.ShouldWorkProperly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Task4" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day3.*" />
+          <option name="PATTERN" value="day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day3" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day3.Day3Task2Test" />
-      <option name="METHOD_NAME" value="ShouldWorkProperly" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3 (1)" />
+        <item itemvalue="Application.Task2 (1)" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="JUnit.Day3Task3Test" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="JUnit.Day3Task2Test" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="JUnit.Day3Task2Test.ShouldWorkProperly" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +154,10 @@
       <workItem from="1670213385601" duration="1957000" />
       <workItem from="1670269695547" duration="10000" />
       <workItem from="1670269753081" duration="86000" />
-      <workItem from="1670269880163" duration="2128000" />
+      <workItem from="1670269880163" duration="2372000" />
+      <workItem from="1670299018019" duration="2196000" />
+      <workItem from="1670385280726" duration="2953000" />
+      <workItem from="1670472667557" duration="2139000" />
     </task>
     <task id="LOCAL-00001" summary="Complete day0 and day1 tasks.">
       <created>1670046311503</created>
@@ -182,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670162148588</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 3 is done and checked">
+      <created>1670274062055</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670274062055</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +209,8 @@
     <MESSAGE value="Complete day0 and day1 tasks." />
     <MESSAGE value="Day1 is checked" />
     <MESSAGE value="Day 2 is done and checked" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2 is done and checked" />
+    <MESSAGE value="Day 3 is done and checked" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 3 is done and checked" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="275" key="#Notifications" timestamp="1670046399409">
@@ -215,46 +221,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="576" y="202" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1670046469079" />
-    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1670273532286">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1670274071277">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1670273532286" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1670274071277" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1670043155625">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1670043155625" />
-    <state width="1493" height="242" key="GridCell.Tab.0.bottom" timestamp="1670273920130">
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1670474819217">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670273920130" />
-    <state width="1493" height="242" key="GridCell.Tab.0.center" timestamp="1670273920129">
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670474819217" />
+    <state width="1493" height="226" key="GridCell.Tab.0.center" timestamp="1670474819216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1670273920129" />
-    <state width="1493" height="242" key="GridCell.Tab.0.left" timestamp="1670273920129">
+    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1670474819216" />
+    <state width="1493" height="226" key="GridCell.Tab.0.left" timestamp="1670474819216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1670273920129" />
-    <state width="1493" height="242" key="GridCell.Tab.0.right" timestamp="1670273920129">
+    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1670474819216" />
+    <state width="1493" height="226" key="GridCell.Tab.0.right" timestamp="1670474819216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1670273920129" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1670273370359">
+    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1670474819216" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1670274191894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670273370359" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1670273370358">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670274191894" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1670274191894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1670273370358" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1670273370358">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1670274191894" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1670274191893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1670273370358" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1670273370359">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1670274191893" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1670274191894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1670273370359" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1670274191894" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1670044413861">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -263,10 +269,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1670046367110" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1670162162956">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1670472878836">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1670162162956" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1670472878836" />
     <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1670273353658">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -275,6 +281,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1670046408262" />
+    <state x="322" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1670301018100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="322" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1670301018100" />
     <state x="425" y="186" key="run.anything.popup" timestamp="1670273416751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
