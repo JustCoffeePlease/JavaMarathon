@@ -23,72 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd7a5dca-445c-4dcd-be2f-0148e565ff8c" name="Default Changelist" comment="Day1 is checked">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day0/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day0/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day1/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day1/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day1/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day1/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day1/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day1/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day1/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day1/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day1/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day1/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day1/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day1/Task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day11/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day11/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day12/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day12/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day12/task3/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/task3/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day12/task4/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/task4/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day12/task5/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/task5/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day13/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day13/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day14/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day14/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day14/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day14/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day14/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day14/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day15/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day15/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day16/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day16/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day16/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day16/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day17/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day17/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day17/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day17/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day18/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day18/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day18/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day18/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day2/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day2/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day2/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day2/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day2/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day2/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day2/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day2/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day3/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day3/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day3/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day3/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day3/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day3/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day4/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day4/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day4/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day4/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day4/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day4/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day4/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day4/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day5/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day5/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day5/Motorbike.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day5/Motorbike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day5/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day5/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day5/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day5/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day6/Airplane.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day6/Airplane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day6/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day6/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day6/Motorbike.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day6/Motorbike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day6/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day6/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day6/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day6/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day6/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day6/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day6/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day6/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day6/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day6/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day7/Airplane.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day7/Airplane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day7/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day7/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day7/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day7/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day7/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day7/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day8/Airplane.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day8/Airplane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day8/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day8/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day8/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day8/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task1/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task1/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task1/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task1/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task1/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task1/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task1/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task2/AFigure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task2/AFigure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task2/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task2/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task2/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task2/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task2/TestFigures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task2/TestFigures.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day9/Task2/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day9/Task2/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/AbstractTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/AbstractTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day10/MyBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10/MyBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day10/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day10/Node.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +58,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -251,7 +189,7 @@
       <workItem from="1671199448749" duration="15000" />
       <workItem from="1671200491453" duration="17000" />
       <workItem from="1671200531748" duration="18000" />
-      <workItem from="1671268650004" duration="7338000" />
+      <workItem from="1671268650004" duration="18612000" />
     </task>
     <task id="LOCAL-00001" summary="Complete day0 and day1 tasks.">
       <created>1670046311503</created>
@@ -330,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670992930300</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Day 10 is created and being developed">
+      <created>1671288924228</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671288924228</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,7 +304,8 @@
     <MESSAGE value="Day 7 is done" />
     <MESSAGE value="Day 8 is Done and checked" />
     <MESSAGE value="Day 9 is done and checked" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 9 is done and checked" />
+    <MESSAGE value="Day 10 is created and being developed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 10 is created and being developed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="275" key="#Notifications" timestamp="1670046399409">
@@ -374,54 +320,54 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="630" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1670992745396" />
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1671288567313">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1671303664417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1671288567313" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1671303664417" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1670043155625">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1670043155625" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1671285951081">
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom" timestamp="1671304261327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1671285951081" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1671285951081">
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1671304261327" />
+    <state width="1493" height="235" key="GridCell.Tab.0.center" timestamp="1671304261326">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1671285951081" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1671285951080">
+    <state width="1493" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1671304261326" />
+    <state width="1493" height="235" key="GridCell.Tab.0.left" timestamp="1671304261326">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1671285951080" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1671285951081">
+    <state width="1493" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1671304261326" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right" timestamp="1671304261327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1671285951081" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1671285951083">
+    <state width="1493" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1671304261327" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1671304250384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1671285951083" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1671285951082">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1671304250384" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1671304250384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1671285951082" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1671285951082">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1671304250384" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1671304250384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1671285951082" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1671285951083">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1671304250384" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1671304250384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1671285951083" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1671304250384" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1670677713260">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1670677713260" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1670046367110">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1671303417307">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1670046367110" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1671303417307" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1670474862992">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -438,6 +384,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="322" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1670301018100" />
+    <state x="475" y="170" key="refactoring.ChangeSignatureDialog" timestamp="1671303572577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="170" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1671303572577" />
     <state x="425" y="186" key="run.anything.popup" timestamp="1670530312141">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
