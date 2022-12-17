@@ -28,6 +28,7 @@ public class Main {
         binaryTree.addNode(24, root);
         binaryTree.addNode(150, root);
 
+        System.out.println("--------------------------------------------------");
         binaryTree.sortNodes();
 
 

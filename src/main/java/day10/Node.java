@@ -44,7 +44,7 @@ public class Node {
                 //           и нет потомков слева
                 if (stepNode.value - value > 0 && stepNode.left == null) {
                     stepNode.left = new Node(value);
-//                    System.out.println(stepNode.left.value);
+                    System.out.println(stepNode.left.value);
                     break;
                 }
                 // Случай 2: У исследуемого узла значение или равно чем вводимое
@@ -77,12 +77,10 @@ public class Node {
 
     // Метод, сортирующий данные древа и возвращающий StringBuilder данных
     public void sortNodes() {
-        StringBuilder dataList = new StringBuilder(root.value);
 
-        if (this.root.left != null) {
-            dataList.append(this.root.left.value);
-        }
-        System.out.println(dataList);
+        StringBuilder dataList = new StringBuilder(Integer.toString(root.value));
+
+        System.out.println(dataList.toString());
     }
 
     // Вспомогательный метод, добавляющий в массив дополнительный элемент
