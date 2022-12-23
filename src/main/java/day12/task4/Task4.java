@@ -1,7 +1,5 @@
 package day12.task4;
 
-import day12.task3.SimpleMusicBand;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -24,26 +22,26 @@ public class Task4 {
         rammsteinMembers.add("Richard Kruspe");
         rammsteinMembers.add("Oliver Riedel");
 
-        MusicBand metallica = new MusicBand("Metallica", 1981, metallicaMembers);
-        MusicBand rammstein = new MusicBand("Rammstein", 1994, rammsteinMembers);
+        SecondMusicBand metallica = new SecondMusicBand("Metallica", 1981, metallicaMembers);
+        SecondMusicBand rammstein = new SecondMusicBand("Rammstein", 1994, rammsteinMembers);
 
         System.out.println("Metallica members: ");
-        MusicBand.printMembers(metallica);
+        SecondMusicBand.printMembers(metallica);
 
         System.out.println("---------------------------------");
 
         System.out.println("Rammstein members: ");
-        MusicBand.printMembers(rammstein);
+        SecondMusicBand.printMembers(rammstein);
 
         System.out.println("---------------------------------");
 
-        MusicBand.transferMembers(metallica, rammstein);
+        SecondMusicBand.transferMembers(metallica, rammstein);
         System.out.println("Metallica NEW members: ");
-        MusicBand.printMembers(metallica);
+        SecondMusicBand.printMembers(metallica);
 
         System.out.println("---------------------------------");
 
         System.out.println("Rammstein NEW members: ");
-        MusicBand.printMembers(rammstein);
+        SecondMusicBand.printMembers(rammstein);
     }
 }

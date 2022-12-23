@@ -3,12 +3,12 @@ package day12.task3;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SimpleMusicBand {
+public class FirstMusicBand {
 
     private final String name;
     private final int year;
 
-    public SimpleMusicBand(String name, int year) {
+    public FirstMusicBand(String name, int year) {
         this.name = name;
         this.year = year;
     }
@@ -21,11 +21,11 @@ public class SimpleMusicBand {
         return year;
     }
 
-    public static List<SimpleMusicBand> groupAfter2000(List<SimpleMusicBand> bandList) {
+    public static List<FirstMusicBand> groupAfter2000(List<FirstMusicBand> bandList) {
 
-        List<SimpleMusicBand> listOfGroupAfter2000 = new ArrayList<>();
+        List<FirstMusicBand> listOfGroupAfter2000 = new ArrayList<>();
 
-        for(SimpleMusicBand musicBand: bandList) {
+        for(FirstMusicBand musicBand: bandList) {
             if(musicBand.getYear() >= 2000) {
                 listOfGroupAfter2000.add(musicBand);
             }
