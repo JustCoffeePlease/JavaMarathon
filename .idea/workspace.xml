@@ -24,9 +24,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cd7a5dca-445c-4dcd-be2f-0148e565ff8c" name="Default Changelist" comment="Day1 is checked">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day12/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day12/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/day11/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day11/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day12/task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/task3/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day12/task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/task4/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day12/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/day12/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/day12/Task2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day12.task4" />
       <recent name="day8" />
       <recent name="day7" />
     </key>
@@ -71,7 +73,7 @@
       <recent name="C:\Users\Алексей\IdeaProjects\JavaMarathon\src\main\java\day6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task2">
+  <component name="RunManager" selected="Application.Task4">
     <configuration name="ExampleCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day12.ExampleCollections" />
       <module name="JavaMarathon2020" />
@@ -111,43 +113,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day11CourierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12.task3.Task3" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day11.*" />
+          <option name="PATTERN" value="day12.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day11" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day11.Day11CourierTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day11PickerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12.task4.Task4" />
       <module name="JavaMarathon2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day11.*" />
+          <option name="PATTERN" value="day12.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day11" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day11.Day11PickerTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1 (1)" />
         <item itemvalue="Application.ExampleCollections" />
-        <item itemvalue="JUnit.Day11PickerTest" />
-        <item itemvalue="JUnit.Day11CourierTest" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +190,8 @@
       <workItem from="1671268650004" duration="26918000" />
       <workItem from="1671314214833" duration="2834000" />
       <workItem from="1671368750935" duration="6254000" />
-      <workItem from="1671681396604" duration="4173000" />
+      <workItem from="1671681396604" duration="4193000" />
+      <workItem from="1671766165095" duration="4384000" />
     </task>
     <task id="LOCAL-00001" summary="Complete day0 and day1 tasks.">
       <created>1670046311503</created>
@@ -313,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671374807407</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Day 12 is on development stage">
+      <created>1671741972610</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1671741972610</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,7 +353,8 @@
     <MESSAGE value="Day 10 without sorting" />
     <MESSAGE value="Day 10 is done with bad array sorting" />
     <MESSAGE value="Day 11 is done but until not tested" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 11 is done but until not tested" />
+    <MESSAGE value="Day 12 is on development stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 12 is on development stage" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="275" key="#Notifications" timestamp="1670046399409">
@@ -362,33 +369,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="630" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1670992745396" />
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1671373605270">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1671768478925">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1671768478925" />
     <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1671373605270" />
+    <state x="426" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1671769906736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1671769906736" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1670043155625">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1670043155625" />
-    <state width="1493" height="167" key="GridCell.Tab.0.bottom" timestamp="1671741785129">
+    <state width="1493" height="295" key="GridCell.Tab.0.bottom" timestamp="1671770577412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1671741785129" />
+    <state width="1493" height="295" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1671770577412" />
     <state width="1493" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1671375179711" />
-    <state width="1493" height="167" key="GridCell.Tab.0.center" timestamp="1671741785129">
+    <state width="1493" height="295" key="GridCell.Tab.0.center" timestamp="1671770577412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1671741785129" />
+    <state width="1493" height="295" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1671770577412" />
     <state width="1493" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1671375179710" />
-    <state width="1493" height="167" key="GridCell.Tab.0.left" timestamp="1671741785129">
+    <state width="1493" height="295" key="GridCell.Tab.0.left" timestamp="1671770577411">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1671741785129" />
+    <state width="1493" height="295" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1671770577411" />
     <state width="1493" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1671375179710" />
-    <state width="1493" height="167" key="GridCell.Tab.0.right" timestamp="1671741785129">
+    <state width="1493" height="295" key="GridCell.Tab.0.right" timestamp="1671770577412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1671741785129" />
+    <state width="1493" height="295" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1671770577412" />
     <state width="1493" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1671375179711" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1671317883302">
       <screen x="0" y="0" width="1536" height="824" />
@@ -430,9 +442,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="322" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1670301018100" />
-    <state x="475" y="170" key="refactoring.ChangeSignatureDialog" timestamp="1671303572577">
+    <state x="475" y="170" key="refactoring.ChangeSignatureDialog" timestamp="1671769075316">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="475" y="170" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1671769075316" />
     <state x="475" y="170" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1671303572577" />
     <state x="425" y="186" key="run.anything.popup" timestamp="1671741428387">
       <screen x="0" y="0" width="1536" height="824" />
